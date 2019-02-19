@@ -48,7 +48,7 @@ end.
 
 (2) 运行结果
 
-<img src="https://fyf2016.github.io/images/project/compiling/rs1.png" width="230" style="margin-left: 25px;">
+<img src="https://fyf2016.github.io/images/project/compiling/rs1.png" width="230" style="margin-left: 25px;display:block;">
 
 2. 测试if-then-else循环	
 (1) 测试文件
@@ -222,9 +222,9 @@ begin
        write(c);
 end.
 ```
-	  a的初始值为0 , b的初始值为-3, 执行c:=@b 后,
-	  b的值变为0 , c的值也变为0 , 执行@a 后, a的值
-	  变为1, 执行@b 后, b的值变为1, 故最后应输出 1, 1 , 0
+	a的初始值为0 , b的初始值为-3, 执行c:=@b 后,
+	b的值变为0 , c的值也变为0 , 执行@a 后, a的值
+	变为1, 执行@b 后, b的值变为1, 故最后应输出 1, 1 , 0
 (2) 运行结果
 
 <img src="https://fyf2016.github.io/images/project/compiling/rs9.png" width="230" style="margin-left: 25px;display: block;">
@@ -240,10 +240,11 @@ begin
    write(b);
 end.
 ```
-第一句定义变量的语句缺少分号,
-给变量a赋值的语句 := 写成了= 
+	第一句定义变量的语句缺少分号,
+	给变量a赋值的语句 := 写成了= 
 
 (2) 运行结果
+
 <img src="https://fyf2016.github.io/images/project/compiling/rs10.png" width="230" style="margin-left: 25px;display: block;">
 
 9. 测试注释处理功能	
@@ -276,9 +277,9 @@ begin
      write(c);
 end.
 ```
-		a的初始值为16 , b的初始值为3, c的初始值为 -2 , 执行
-		a%b后, a的值变为1,执行c%b后, c的值为- 2,所以应该输
-		出1, -2
+	a的初始值为16 , b的初始值为3, c的初始值为 -2 , 执行
+	a%b后, a的值变为1,执行c%b后, c的值为- 2,所以应该输
+	出1, -2
 
 (2) 运行结果
 
