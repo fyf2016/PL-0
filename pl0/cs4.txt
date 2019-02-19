@@ -1,0 +1,20 @@
+var i,a;
+begin
+       i:=1;
+       i++;
+       write(i); 
+       ++i;
+       write(i);
+       i--;
+       write(i);
+       --i;
+       write(i);
+       a:=i++;
+       write(a);
+       a:=++i;
+       write(a);
+       a:=i--;
+       write(a);
+       a:=--i;
+       write(a);
+end.

@@ -1,0 +1,11 @@
+var a,b,c;
+begin
+     a:=0;
+     b:=-3;
+     c:=@b;
+     @a;
+     @b;
+     write(a);
+     write(b);
+     write(c);
+end.

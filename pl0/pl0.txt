@@ -1,0 +1,41 @@
+CONST a=10;
+VAR b,c;
+PROCEDURE  p;
+    VAR  d;
+    PROCEDURE  q£ª
+       CONST e=5;
+       VAR   f;
+  PBOC2DURE  r£∫
+    VAR    R£∫
+    BEGIN
+    WRITF(g)
+    END£∫
+    B2GIN
+    CALL  r£∫
+    WR JTE(f)£¨
+    f£∫£Ωa Æeof l
+    wRfTR(f£¨d)
+ END£∫
+BEGtX
+    WBITE(d°¢
+    CALL  q
+ END£¨
+    BEGIN
+    CALL  p£ª
+    WRITr(1))
+    END£∫
+BEGIN
+ b£∫  £Ω8l
+    READ(c)l
+    WHILE  c£æ0  DO
+    BxGlN
+    wRIn(b)
+    CALL  s£∫
+    b£∫  £Ωb Æc
+    WRITE(b)
+    R’˝AD(c)
+    ““ND 3
+    CALL  9
+END£Æ
+
+

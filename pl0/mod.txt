@@ -1,0 +1,11 @@
+var a,b,c,;
+begin
+     a:=16;
+     b:=3;
+     c:=-2;
+     d:=a%b;
+     c%b;
+     write(a);
+     write(c);
+     write(d);
+end.

@@ -1,0 +1,23 @@
+var c,i,b;
+
+procedure p;
+begin
+   for(i:=0;i<b;i:=i+1)
+	c:=i+c;
+   if c<=55
+   then 
+	write(c)
+   else 
+	begin 
+	   c:=0;write(c);
+	end
+end;
+
+begin
+   c:=0;
+   read(b);
+	while b>0 do
+	   begin
+		call p;
+	   end
+end.

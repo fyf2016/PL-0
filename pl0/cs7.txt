@@ -1,0 +1,9 @@
+var a,b,c;
+begin
+   a:=-5;
+   c:=3;
+   b:=!a;
+   !c;
+   write(b);
+   write(c);
+end.

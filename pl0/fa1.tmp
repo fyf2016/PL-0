@@ -1,0 +1,22 @@
+Iput pl/0 file ?n
+0 var a,b,c,;
+
+1 begin
+
+2      a:=16;
+
+4      b:=3;
+
+6      c:=-2;
+
+9      d:=a%b;
+
+10      c%b;
+
+10      write(a);
+
+10      write(c);
+
+10      write(d);
+
+10 end.

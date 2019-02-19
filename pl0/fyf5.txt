@@ -1,0 +1,8 @@
+var a,b;
+begin
+a:=5;
+b:=3;
+a%b;
+write(a);
+write(b);
+end.

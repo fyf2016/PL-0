@@ -1,0 +1,12 @@
+var i,a;
+begin
+	i:=1;
+	i++;
+	write(i);
+	i--;
+	write(i);
+	++i;
+	write(i);
+	--i;
+	write(i);
+end.

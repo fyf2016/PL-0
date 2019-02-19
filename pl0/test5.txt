@@ -1,0 +1,8 @@
+var x;
+begin
+       x:=1;
+       repeat
+             x:=x+1;
+       until x>5;   /* ÕâÊÇ×¢ÊÍ */
+       write(x); 
+end.

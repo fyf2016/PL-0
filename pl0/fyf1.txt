@@ -1,0 +1,10 @@
+var i,a,b;
+begin
+	a:=0;
+	read(b);
+	for(i:=0;i<b)
+	  begin
+		a:=i+a;
+		write(a);
+	  end;
+end.
